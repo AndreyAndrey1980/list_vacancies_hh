@@ -1,0 +1,7 @@
+certifi
+charset-normalizer
+idna
+psycopg2
+python-dotenv
+requests
+urllib3
